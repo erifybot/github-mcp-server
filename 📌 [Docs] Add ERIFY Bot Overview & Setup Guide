@@ -1,0 +1,15 @@
+## Overview
+We need to introduce documentation for the **ERIFY™ Bot** to guide contributors and community members.
+
+## Tasks
+- [ ] Add high-level overview of ERIFY Bot’s purpose  
+- [ ] Document setup process (GitHub, Discord, Cloudflare integration)  
+- [ ] Provide basic usage examples (commands, screenshots)  
+- [ ] Outline roadmap for future versions (v1.0+)  
+
+## Why
+This will give the ERIFY™ community a clear starting point and improve onboarding for contributors.  
+
+## Notes
+- Use consistent ERIFY™ branding (logos, emojis, and tone)  
+- Reference related repos (`erifybot/cloudflare-docs`, `erifybot/progit2`)  
